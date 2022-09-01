@@ -21,4 +21,5 @@ Note: the mode of olleh will not always be 664. Make sure your script works for 
 11-directories_permissions: A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 12-directory_permissions: A script that creates a directory called my_dir with permissions 751 in the working directory.
 13-change_group: A script that changes the group owner to school for the file hello.
+101-change_owner_and_group: A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
