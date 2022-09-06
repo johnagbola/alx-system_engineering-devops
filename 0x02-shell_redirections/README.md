@@ -23,5 +23,6 @@ One file per line
 Sorted from the newest to the oldest
 
 13-unique: A script that takes a list of words as input and prints only words that appear exactly once.
-14-findthatword: A script that Display lines containing the pattern “root” from the file /etc/passwd
+14-findthatword: A script that Displays lines containing the pattern “root” from the file /etc/passwd
+15-countthatword: A script that Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 
